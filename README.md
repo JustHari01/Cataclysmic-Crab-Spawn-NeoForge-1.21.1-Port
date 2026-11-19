@@ -2,6 +2,8 @@
 
 An unofficial NeoForge 1.21.1 port of [Cataclysmic Crab Spawn by ImMaxon](https://modrinth.com/mod/cataclysmic-crab-spawn).
 
+Port source: [JustHari01/Cataclysm-Crab-Spawn-NeoForge-1.21.1-Port](https://github.com/JustHari01/Cataclysm-Crab-Spawn-NeoForge-1.21.1-Port).
+
 ## What it adds
 
 The mod adds the craftable **Suspicious Looking Crab** item. Right-clicking it summons Cataclysm's Amethyst Crab, plays the beacon selection sound, and shows the same item-use animation and tooltip as the upstream mod. The item appears in Minecraft's Tools & Utilities creative tab.

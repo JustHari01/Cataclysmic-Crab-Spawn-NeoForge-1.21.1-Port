@@ -33,7 +33,7 @@ displayName="${mod_name}" #mandatory
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="https://modrinth.com/mod/cataclysmic-crab-spawn" # Upstream project
+displayURL="https://github.com/JustHari01/Cataclysm-Crab-Spawn-NeoForge-1.21.1-Port" # Port source
 
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="cataclysm-crab-spawn-icon.png" #optional
