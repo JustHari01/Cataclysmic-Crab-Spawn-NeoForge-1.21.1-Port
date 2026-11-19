@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:moss_block"
+    },
+    "b": {
+      "item": "minecraft:big_dripleaf"
+    },
+    "c": {
+      "item": "minecraft:amethyst_block"
+    },
+    "d": {
+      "item": "minecraft:soul_sand"
+    },
+    "e": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "result": {
+    "id": "cataclysmic_crab_spawn:suspicious_looking_crab",
+    "count": 1
+  }
+}
